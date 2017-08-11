@@ -1,0 +1,22 @@
+body {
+	background: blue;
+}
+
+h1 {
+	font-size: 64px;
+	text-align: center; 
+}
+
+p {
+	color: white;
+
+}
+img {
+	width: 400px;
+}
+
+#slogan {
+font-style: italic;
+font-size: 32px;
+text-align: center;
+}
